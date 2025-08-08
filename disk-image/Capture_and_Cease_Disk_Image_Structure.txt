@@ -1,0 +1,20 @@
+
+Capture & Cease - Dummy Disk Image Structure
+
+Directory: suspect_partition/
+├── recovered_images/
+│   ├── photo1.jpg
+│   ├── photo2.jpg
+│   ├── altered_document.png
+├── metadata/
+│   ├── file_hashes.txt
+│   ├── timestamps.csv
+├── logs/
+│   └── autopsy_session_log.txt
+├── notes.txt
+
+Description:
+- 'recovered_images/': Contains simulated recovered image files from the disk.
+- 'metadata/': Contains hash and timestamp records to verify integrity.
+- 'logs/': Simulated logs of forensic software session.
+- 'notes.txt': Summary notes from the recovery process.

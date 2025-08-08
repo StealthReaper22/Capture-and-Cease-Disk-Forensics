@@ -12,10 +12,15 @@ This project simulates a digital forensic investigation aimed at recovering dele
 
 ## Project Structure
 Capture-and-Cease-Disk-Forensics/
+
 ├── disk-image/ # Contains dummy disk image or placeholder
+
 ├── reports/ # Contains forensic report PDF
+
 ├── screenshots/ # Optional screenshots of tools
+
 ├── tools-used.txt # Notes on tools used
+
 
 ## Objectives
 - Simulate recovery of deleted files from disk image
